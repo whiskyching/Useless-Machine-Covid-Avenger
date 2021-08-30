@@ -48,10 +48,10 @@
 ![image](https://user-images.githubusercontent.com/65818525/131322318-65b57411-d9b6-4f3e-90c2-915edddecabe.png)
 
 ## Fighting Modes
-## Lower Gate Activated
+## Gesture A: Lower Gate Activated
 ![image](https://user-images.githubusercontent.com/65818525/131326159-4398c200-6d46-4da9-9da6-378e56e64f91.png) ![LowerGateFight (1)](https://user-images.githubusercontent.com/65818525/131325623-f2407050-f2a3-4e8c-be9e-587320b195bc.gif)
 ---
-## Upper Gate Activated
+## Gesture B: Upper Gate Activated
 
 
 ## Development Process
