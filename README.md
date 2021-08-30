@@ -6,13 +6,13 @@
 - Prusa 3D Print Slicer
 
 ## Hardware
+- Solenoid Valve x1
 - Arduino Uno x1
 - Breadboard x1
 - Powersupply 24V x1
 - Adaptor 5V x1
 - Button Sensor x3
 - Servo Motor x3
-- Solenoid Valve x1
 - Relay x3
 - 3D Printing Part
 
