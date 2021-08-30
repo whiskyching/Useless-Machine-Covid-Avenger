@@ -1,4 +1,21 @@
 # Useless-Machine-Covid-Avenger
+2020 was a challenging year due to the Corona Covid-19. It dramatically changes our lifestyle and human behaviors. We can't touch everything intuitively in public or before entering the shop. We subconsciously sanitize our hands before shaking hands with friends. Therefore, to contribute to this particular year, this idea comes out.
+## Software Tool: 
+- Python
+- Arduino 
+- Prusa 3D Print Slicer
+
+## Hardware
+- Arduino Uno x1
+- Breadboard x1
+- Powersupply 24V x1
+- Adaptor 5V x1
+- Button Sensor x3
+- Servo Motor x3
+- Solenoid Valve x1
+- Relay x3
+- 3D Printing Part
+
 
 ![image](https://user-images.githubusercontent.com/65818525/131314900-d4615d26-acfd-4686-8262-f84dd825f5f1.png)
 ---
