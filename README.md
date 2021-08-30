@@ -27,7 +27,12 @@
 ---
 ![Explosion (1)](https://user-images.githubusercontent.com/65818525/131320547-bae617a5-193d-43ec-87a2-1bff1b13f673.gif) 
 ---
+## Kinematic System - Linkage
 ![image](https://user-images.githubusercontent.com/65818525/131320961-20c1891b-8fdb-4083-bd29-b4db70c0cb60.png) ![Kinematic](https://user-images.githubusercontent.com/65818525/131320986-a792b837-ec5c-44c3-a2bd-0a406b768647.gif)
+---
+## Trigger - Gestures
+![Trigger](https://user-images.githubusercontent.com/65818525/131321188-47ec0b0d-a75e-410d-8f8b-4259bdee3cf4.png)
+![upperGate](https://user-images.githubusercontent.com/65818525/131321663-258974a6-b89e-4883-bf35-52bb234dbbbe.gif) ![lowerGate](https://user-images.githubusercontent.com/65818525/131321673-6c6f6804-eebd-4322-b8bb-57f174951692.gif)
 
 
 
