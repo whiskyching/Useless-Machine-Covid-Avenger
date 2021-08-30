@@ -48,12 +48,16 @@
 ![image](https://user-images.githubusercontent.com/65818525/131322318-65b57411-d9b6-4f3e-90c2-915edddecabe.png)
 
 ## Fighting Modes
+## Lower Gate Activated
+![LowerGateFight (1)](https://user-images.githubusercontent.com/65818525/131325623-f2407050-f2a3-4e8c-be9e-587320b195bc.gif)
+---
+## Upper Gate Activated
 
 
 ## Development Process
 ![photo2](https://user-images.githubusercontent.com/65818525/131322851-cf6d9ba4-6b92-4486-92c8-91d576de0c20.png)
 ---
-![LowerGateFight (1)](https://user-images.githubusercontent.com/65818525/131325623-f2407050-f2a3-4e8c-be9e-587320b195bc.gif)
+
 
 ---
 ![photo](https://user-images.githubusercontent.com/65818525/131322829-ee808ec0-7b82-401d-92aa-7fa8ebc7909e.png)
