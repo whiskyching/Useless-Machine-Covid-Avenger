@@ -80,6 +80,7 @@ This linkage mechanism is driven by two servo motors, which are installed on bot
 ![image](https://user-images.githubusercontent.com/65818525/131326538-78ea7308-4a41-458a-ac40-4a8a57d3e93e.png)
 ---
 ![photo](https://user-images.githubusercontent.com/65818525/131322829-ee808ec0-7b82-401d-92aa-7fa8ebc7909e.png)
-
+---
+![image](https://user-images.githubusercontent.com/65818525/131328197-1a8ec955-1856-4256-9cda-d3542d851de4.png)
 
 
