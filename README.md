@@ -40,7 +40,7 @@ This linkage mechanism is driven by two servo motors, which are installed on bot
 ![upperGate](https://user-images.githubusercontent.com/65818525/131321663-258974a6-b89e-4883-bf35-52bb234dbbbe.gif) ![lowerGate](https://user-images.githubusercontent.com/65818525/131321673-6c6f6804-eebd-4322-b8bb-57f174951692.gif)
 
 ## Pneumatic System
-The spray system is driven by pneumatic. There are two metal cylinders. One is the high-pressure air CO2 cylinder. Another one is to contain sanitizer such as alcohol. Through 5 way 3 position solenoid power valves, the sanitizer will rush out to the designated port.
+- The spray system is driven by pneumatic. There are two metal cylinders. One is the high-pressure air CO2 cylinder. Another one is to contain sanitizer such as alcohol. Through 5 way 3 position solenoid power valves, the sanitizer will rush out to the designated port.
 8mm PU pipes has been used for the connection. Besides, installing the regulating valve to adjusting the pressure for Sprayer A. And a Stop valve to control the CO2 cylinder.
 
 ![image](https://user-images.githubusercontent.com/65818525/131322014-86e7fb74-f5ca-4b3f-8761-4768e5cb9f12.png)
@@ -49,23 +49,23 @@ The spray system is driven by pneumatic. There are two metal cylinders. One is t
 ![image](https://user-images.githubusercontent.com/65818525/131322093-b0723814-1820-4a71-82eb-c60d8524440a.png)
 
 ## Circuit Detail
-Two 5V relays are used to control the 24V solenoid valve to vent the pressurized air to the designated port through Arduino.
+- Two 5V relays are used to control the 24V solenoid valve to vent the pressurized air to the designated port through Arduino.
 ![image](https://user-images.githubusercontent.com/65818525/131322232-d7922812-617b-4d92-8cbb-7c4bddda6f9d.png)
 
 ## Arduino Code
-In Arduino code, the variables are defined first at the beginning, including servo motors, led pin(for testing), relays and button sensors. Then in the Setup function, Button ports are all input, and the rest are output.
+- In Arduino code, the variables are defined first at the beginning, including servo motors, led pin(for testing), relays and button sensors. Then in the Setup function, Button ports are all input, and the rest are output.
 
 In the main function, there are two logics. One is for activating Sprayer A, another is for Sprayer B. One thing to note is the servo motor angle setting is opposite for each.
 ![image](https://user-images.githubusercontent.com/65818525/131322318-65b57411-d9b6-4f3e-90c2-915edddecabe.png)
 
 ## Fighting Modes
-To activate the weapon. There are three buttons on your palm. Through three two gestures, it will come out with different features. These buttons are hidden on the palm integrated with 3D printed components. 
+- To activate the weapon. There are three buttons on your palm. Through three two gestures, it will come out with different features. These buttons are hidden on the palm integrated with 3D printed components. 
 ## Gesture A: Lower Gate Activated
-Gesture A, which looks like a rocker, will trigger sprayer A, which is a soft and smooth spray.
+- Gesture A, which looks like a rocker, will trigger sprayer A, which is a soft and smooth spray.
 ![image](https://user-images.githubusercontent.com/65818525/131326159-4398c200-6d46-4da9-9da6-378e56e64f91.png) ![LowerGateFight (1)](https://user-images.githubusercontent.com/65818525/131325623-f2407050-f2a3-4e8c-be9e-587320b195bc.gif)
 ---
 ## Gesture B: Upper Gate Activated
-Gesture B, which is the badass one. You clench your fist. The sanitizer will come out with high-pressure air to clean everything you are targeting without mercy. And vent all the anger from Covid-19.
+- Gesture B, which is the badass one. You clench your fist. The sanitizer will come out with high-pressure air to clean everything you are targeting without mercy. And vent all the anger from Covid-19.
 ![image](https://user-images.githubusercontent.com/65818525/131326330-d69cf938-2254-4fa6-bda0-5052b878e248.png) ![UpperGateFight](https://user-images.githubusercontent.com/65818525/131326901-b8927cac-6608-4404-92fd-fc9f8b1fa8bf.gif)
 
 
