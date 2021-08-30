@@ -49,7 +49,7 @@
 
 ## Fighting Modes
 ## Lower Gate Activated
-![LowerGateFight (1)](https://user-images.githubusercontent.com/65818525/131325623-f2407050-f2a3-4e8c-be9e-587320b195bc.gif)
+![image](https://user-images.githubusercontent.com/65818525/131326159-4398c200-6d46-4da9-9da6-378e56e64f91.png) ![LowerGateFight (1)](https://user-images.githubusercontent.com/65818525/131325623-f2407050-f2a3-4e8c-be9e-587320b195bc.gif)
 ---
 ## Upper Gate Activated
 
