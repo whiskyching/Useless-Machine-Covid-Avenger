@@ -1,5 +1,6 @@
 # Useless-Machine-Covid-Avenger
 2020 was a challenging year due to the Corona Covid-19. It dramatically changes our lifestyle and human behaviors. We can't touch everything intuitively in public or before entering the shop. We subconsciously sanitize our hands before shaking hands with friends. Therefore, to contribute to this particular year, this idea comes out.
+
 ## Software Tool: 
 - Python
 - Arduino 
@@ -34,11 +35,28 @@
 ![Trigger](https://user-images.githubusercontent.com/65818525/131321188-47ec0b0d-a75e-410d-8f8b-4259bdee3cf4.png)
 ![upperGate](https://user-images.githubusercontent.com/65818525/131321663-258974a6-b89e-4883-bf35-52bb234dbbbe.gif) ![lowerGate](https://user-images.githubusercontent.com/65818525/131321673-6c6f6804-eebd-4322-b8bb-57f174951692.gif)
 
+## Pneumatic System
+![image](https://user-images.githubusercontent.com/65818525/131322014-86e7fb74-f5ca-4b3f-8761-4768e5cb9f12.png)
+
+## Schematic Control System
+![image](https://user-images.githubusercontent.com/65818525/131322093-b0723814-1820-4a71-82eb-c60d8524440a.png)
+
+## Circuit Detail
+![image](https://user-images.githubusercontent.com/65818525/131322232-d7922812-617b-4d92-8cbb-7c4bddda6f9d.png)
+
+## Arduino Code
+![image](https://user-images.githubusercontent.com/65818525/131322318-65b57411-d9b6-4f3e-90c2-915edddecabe.png)
+
+## Fighting Modes
 
 
+## Development Process
+![photo2](https://user-images.githubusercontent.com/65818525/131322851-cf6d9ba4-6b92-4486-92c8-91d576de0c20.png)
+---
+![LowerGateFight (1)](https://user-images.githubusercontent.com/65818525/131325623-f2407050-f2a3-4e8c-be9e-587320b195bc.gif)
 
 ---
+![photo](https://user-images.githubusercontent.com/65818525/131322829-ee808ec0-7b82-401d-92aa-7fa8ebc7909e.png)
 
----
 
 
