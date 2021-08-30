@@ -25,16 +25,17 @@
 ![image](https://user-images.githubusercontent.com/65818525/131315143-66cc6862-a089-4fed-8f52-aaf96993253a.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131315182-f0a29d55-1e32-49b0-a1ac-9cff369bed4e.png)
----
+
 ## 3D Print Parts
 Here are all the components. Start from the hand, there are buttons on the palm as the trigger. And then the sprayer and the linkage mechanism on the former arm. On the upper arm, there is an actuator and the circuit. All of the customized parts are made by 3d printer, and tight by velcro on the arm.
+
 ![Explosion (1)](https://user-images.githubusercontent.com/65818525/131320547-bae617a5-193d-43ec-87a2-1bff1b13f673.gif) 
 ---
 ## Kinematic System - Linkage
 This linkage mechanism is driven by two servo motors, which are installed on both sides. Through exploded view, you can see the main transmission consists of three links, two connectors, one anchor, and one rotating output. This will perfectly demonstrate the sloping curve, which you can see the motion trajectory on the right. The land gear of the plane inspires this idea by using the short link to drive the long link.
 
 ![image](https://user-images.githubusercontent.com/65818525/131320961-20c1891b-8fdb-4083-bd29-b4db70c0cb60.png) ![Kinematic](https://user-images.githubusercontent.com/65818525/131320986-a792b837-ec5c-44c3-a2bd-0a406b768647.gif)
----
+
 ## Trigger - Gestures
 ![Trigger](https://user-images.githubusercontent.com/65818525/131321188-47ec0b0d-a75e-410d-8f8b-4259bdee3cf4.png)
 ![upperGate](https://user-images.githubusercontent.com/65818525/131321663-258974a6-b89e-4883-bf35-52bb234dbbbe.gif) ![lowerGate](https://user-images.githubusercontent.com/65818525/131321673-6c6f6804-eebd-4322-b8bb-57f174951692.gif)
